@@ -1,0 +1,12 @@
+\\Mac\Home\Downloads\MySourceCode\MyWebAPI\MyWebAPI\obj\Release\net8.0\win-x64\PubTmp\Out\MyWebAPI.exe
+\\Mac\Home\Downloads\MySourceCode\MyWebAPI\MyWebAPI\obj\Release\net8.0\win-x64\PubTmp\Out\appsettings.Development.json
+\\Mac\Home\Downloads\MySourceCode\MyWebAPI\MyWebAPI\obj\Release\net8.0\win-x64\PubTmp\Out\appsettings.json
+\\Mac\Home\Downloads\MySourceCode\MyWebAPI\MyWebAPI\obj\Release\net8.0\win-x64\PubTmp\Out\MyWebAPI.dll
+\\Mac\Home\Downloads\MySourceCode\MyWebAPI\MyWebAPI\obj\Release\net8.0\win-x64\PubTmp\Out\MyWebAPI.deps.json
+\\Mac\Home\Downloads\MySourceCode\MyWebAPI\MyWebAPI\obj\Release\net8.0\win-x64\PubTmp\Out\MyWebAPI.runtimeconfig.json
+\\Mac\Home\Downloads\MySourceCode\MyWebAPI\MyWebAPI\obj\Release\net8.0\win-x64\PubTmp\Out\MyWebAPI.pdb
+\\Mac\Home\Downloads\MySourceCode\MyWebAPI\MyWebAPI\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.OpenApi.dll
+\\Mac\Home\Downloads\MySourceCode\MyWebAPI\MyWebAPI\obj\Release\net8.0\win-x64\PubTmp\Out\Newtonsoft.Json.dll
+\\Mac\Home\Downloads\MySourceCode\MyWebAPI\MyWebAPI\obj\Release\net8.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+\\Mac\Home\Downloads\MySourceCode\MyWebAPI\MyWebAPI\obj\Release\net8.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+\\Mac\Home\Downloads\MySourceCode\MyWebAPI\MyWebAPI\obj\Release\net8.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

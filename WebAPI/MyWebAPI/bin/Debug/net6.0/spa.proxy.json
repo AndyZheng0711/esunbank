@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "",
+"RedirectUrl": "",
+"LaunchCommand": "",
+"WorkingDirectory": "\\\\Mac\\Home\\Downloads\\MySourceCode\\esunbank\\MyWebAPI",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

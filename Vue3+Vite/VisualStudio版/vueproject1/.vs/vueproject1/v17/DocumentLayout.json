@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andyzheng\\source\\repos\\vueproject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F599AA10-28E7-45B4-BD21-001F581A12D5}|vueproject1\\vueproject1.esproj|c:\\users\\andyzheng\\source\\repos\\vueproject1\\vueproject1\\src\\components\\postdata.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F599AA10-28E7-45B4-BD21-001F581A12D5}|vueproject1\\vueproject1.esproj|solutionrelative:vueproject1\\src\\components\\postdata.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F599AA10-28E7-45B4-BD21-001F581A12D5}|vueproject1\\vueproject1.esproj|c:\\users\\andyzheng\\source\\repos\\vueproject1\\vueproject1\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{F599AA10-28E7-45B4-BD21-001F581A12D5}|vueproject1\\vueproject1.esproj|solutionrelative:vueproject1\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F599AA10-28E7-45B4-BD21-001F581A12D5}|vueproject1\\vueproject1.esproj|c:\\users\\andyzheng\\source\\repos\\vueproject1\\vueproject1\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F599AA10-28E7-45B4-BD21-001F581A12D5}|vueproject1\\vueproject1.esproj|solutionrelative:vueproject1\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\andyzheng\\source\\repos\\vueproject1\\vueproject1\\src\\main.ts",
+              "RelativeDocumentMoniker": "vueproject1\\src\\main.ts",
+              "ToolTip": "C:\\Users\\andyzheng\\source\\repos\\vueproject1\\vueproject1\\src\\main.ts",
+              "RelativeToolTip": "vueproject1\\src\\main.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-14T06:02:14.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostData.vue",
+              "DocumentMoniker": "C:\\Users\\andyzheng\\source\\repos\\vueproject1\\vueproject1\\src\\components\\PostData.vue",
+              "RelativeDocumentMoniker": "vueproject1\\src\\components\\PostData.vue",
+              "ToolTip": "C:\\Users\\andyzheng\\source\\repos\\vueproject1\\vueproject1\\src\\components\\PostData.vue",
+              "RelativeToolTip": "vueproject1\\src\\components\\PostData.vue",
+              "ViewState": "AQIAADYAAABoAAAAAIApwEAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-09-14T00:42:06.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.vue",
+              "DocumentMoniker": "C:\\Users\\andyzheng\\source\\repos\\vueproject1\\vueproject1\\src\\App.vue",
+              "RelativeDocumentMoniker": "vueproject1\\src\\App.vue",
+              "ToolTip": "C:\\Users\\andyzheng\\source\\repos\\vueproject1\\vueproject1\\src\\App.vue",
+              "RelativeToolTip": "vueproject1\\src\\App.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-09-13T22:49:20.655Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
